@@ -1,0 +1,3 @@
+/Users/alessandrotola/Desktop/Facolta/PR1/Lab/stringhe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alessandrotola/Desktop/Facolta/PR1/Lab/stringhe/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alessandrotola/Desktop/Facolta/PR1/Lab/stringhe/cmake-build-debug/CMakeFiles/stringhe.dir
